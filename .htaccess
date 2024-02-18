@@ -1,0 +1,6 @@
+RewriteEngine On
+ErrorDocument 404 /iDiscuss/404.php
+ErrorDocument 500 /iDiscuss/404.php
+ErrorDocument 403 /iDiscuss/404.php
+ErrorDocument 400 /iDiscuss/404.php
+ErrorDocument 401 /iDiscuss/404.php
